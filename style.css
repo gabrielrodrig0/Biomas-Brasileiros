@@ -352,4 +352,14 @@ h1,h2 {
     .faq1 h1 {
         text-align: left;
     }
+
+    
+}
+
+@media only screen and (max-width: 450px) {
+
+    .menu li {
+        font-size: 12px;
+    }
+
 }
